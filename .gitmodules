@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rsyncrosim"]
 	path = rsyncrosim
 	url = https://github.com/syncrosim/rsyncrosim
-	shallow = true
-	registered = true
